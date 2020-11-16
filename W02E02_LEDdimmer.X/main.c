@@ -24,7 +24,7 @@ int main(void)
     
     while (1)
     {
-        if(PORTF.IN & PIN6_bm) //painetaanko nappia?
+        if(!(PORTF.IN & PIN6_bm)) //painetaanko nappia?
         {
             button = 1;
         }
