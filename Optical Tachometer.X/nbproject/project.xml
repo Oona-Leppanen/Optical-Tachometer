@@ -3,7 +3,7 @@
     <type>com.microchip.mplab.nbide.embedded.makeproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
-            <name>Testi</name>
+            <name>Optical Tachometer</name>
             <creation-uuid>4ff14ca6-7e3c-4f3b-8516-7ca50913d14b</creation-uuid>
             <make-project-type>0</make-project-type>
             <c-extensions>c</c-extensions>
